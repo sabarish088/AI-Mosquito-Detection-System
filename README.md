@@ -214,11 +214,9 @@ arduino-cli compile --fqbn esp32:esp32:esp32 firmware/firmware.ino
 
 ## 👥 Authors
 
-| Name |
-|---|---|
-| Sabarish S |
-| Sujitha S |
-| Kanagapriya R |
+- Sabarish S
+- Sujitha S
+- Kanagapriya R
 
 ---
 
