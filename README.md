@@ -214,15 +214,11 @@ arduino-cli compile --fqbn esp32:esp32:esp32 firmware/firmware.ino
 
 ## 👥 Authors
 
-| Name | Register No. |
+| Name |
 |---|---|
-| Sujitha S | 73152321056 |
-| Kanagapriya R | 73152321504 |
-| Sabarish S | 73152321044 |
-
-**Department of Information Technology**
-K.S.R. College of Engineering (Autonomous), Tiruchengode  
-Anna University, Chennai — Mini Project, May 2026
+| Sabarish S |
+| Sujitha S |
+| Kanagapriya R |
 
 ---
 
